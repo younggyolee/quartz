@@ -51,6 +51,7 @@ I love travelling and I am so enthusiastic about lightweight gears - yet satisfy
 	- This is the ultra beast for everything. It can transmit data for most of the cases (like portable monitor, fast data transfer, wired hotspot to iphone, etc...). The only downside is its length (0.5~0.8m).
 	- This is a passive thunderbolt cable which works the best, and I believe its length limit is around 1m due to technical limits. (I haven't tried longer thunderbolt 5 cable like 2 meter ones. Or actually I have 2m-ish cable from my 4k LG Ultrafine monitor. I may just try that for my next trip)
 - USAMS 6 in 1 cable
+- Hagibis usb c to c short cable (usb 4)
 
 ## Portable Charger
 - Anker Zolo Magsafe 10000mah / 30w portable battery
@@ -71,6 +72,7 @@ I love travelling and I am so enthusiastic about lightweight gears - yet satisfy
 	- Listening sound quality is actually quite good, up to sennheiser quality. Music on this thing is pleasant to hear.
 - Apple wired earpods (usb-c)
 	- for backup
+
 ## Jacket
 - Patagonia torrentshell (for all weathers)
 	- Windbreaker with breathability
