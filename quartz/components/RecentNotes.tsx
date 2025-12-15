@@ -14,6 +14,7 @@ interface Options {
   linkToMore: SimpleSlug | false
   showTags: boolean
   showDescription: boolean
+  showThumbnail: boolean
   filter: (f: QuartzPluginData) => boolean
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
@@ -23,6 +24,7 @@ const defaultOptions = (cfg: GlobalConfiguration): Options => ({
   linkToMore: false,
   showTags: true,
   showDescription: true,
+  showThumbnail: true,
   filter: () => true,
   sort: byDateAndAlphabetical(cfg),
 })
@@ -45,37 +47,48 @@ export default ((userOpts?: Partial<Options>) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
             const tags = page.frontmatter?.tags ?? []
 
+            const coverImage = page.coverImage
+
             return (
               <li class="recent-li">
-                <div class="section">
-                  <div class="desc">
-                    <h3>
-                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                        {title}
-                      </a>
-                    </h3>
+                <div class={`section ${coverImage && opts.showThumbnail ? "has-thumbnail" : ""}`}>
+                  <div class="content">
+                    <div class="desc">
+                      <h3>
+                        <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                          {title}
+                        </a>
+                      </h3>
+                    </div>
+                    {page.dates && (
+                      <p class="meta">
+                        <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                      </p>
+                    )}
+                    {opts.showDescription && page.description && (
+                      <p class="description">{page.description}</p>
+                    )}
+                    {opts.showTags && (
+                      <ul class="tags">
+                        {tags.map((tag) => (
+                          <li>
+                            <a
+                              class="internal tag-link"
+                              href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                            >
+                              {tag}
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
                   </div>
-                  {page.dates && (
-                    <p class="meta">
-                      <Date date={getDate(cfg, page)!} locale={cfg.locale} />
-                    </p>
-                  )}
-                  {opts.showDescription && page.description && (
-                    <p class="description">{page.description}</p>
-                  )}
-                  {opts.showTags && (
-                    <ul class="tags">
-                      {tags.map((tag) => (
-                        <li>
-                          <a
-                            class="internal tag-link"
-                            href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                          >
-                            {tag}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
+                  {opts.showThumbnail && coverImage && (
+                    <div class="thumbnail">
+                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                        <img src={resolveRelative(fileData.slug!, coverImage as FullSlug)} alt={title} />
+                      </a>
+                    </div>
                   )}
                 </div>
               </li>
