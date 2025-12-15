@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"One bag travel","created":"2025-12-07T12:35:02.706+08:00","modified":"2025-12-15T13:06:24.860+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-07T12:35:02.706+08:00","modified":"2025-12-15T15:48:08.651+08:00","cssclasses":""}
 ---
 
 I love travelling and I am so enthusiastic about lightweight gears - yet satisfying most of the needs that I have for work. It's probably a dream that cannot be achieved, but this is always so fun for me to strive for the goal and exploring options.
