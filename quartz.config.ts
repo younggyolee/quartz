@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { FolderContentWithLoadMore } from "./quartz/components"
 
 /**
  * Quartz 4 Configuration
@@ -78,7 +79,9 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        pageBody: FolderContentWithLoadMore({ initialLimit: 5, loadMoreCount: 5 }),
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
