@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-15T17:34:37.653+08:00","modified":"2025-12-15T17:44:56.347+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-15T17:34:37.653+08:00","modified":"2025-12-15T17:45:47.345+08:00","cssclasses":""}
 ---
 
 
@@ -18,4 +18,4 @@ It streamlined purchase pipeline perfectly. It's a role model app I want to make
 - pricing is meticulously done so that people selects lifetime deal
   
   (lifetime: 27,000KRW, annual subs: 20,000KRW, monthly subs: 5,000KRW)
-- Subscription is seamlessly shared between Mac and iPhone.
+- Subscription is seamlessly shared between Mac and iPhone. (I can even continue the session immediately between the devices - just like Spotify continuing to play the same song in different devices!)
