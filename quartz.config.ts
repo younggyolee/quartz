@@ -9,7 +9,7 @@ import { FolderContentWithLoadMore } from "./quartz/components"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Younggyo",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
