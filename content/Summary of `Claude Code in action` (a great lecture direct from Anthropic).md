@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-12-15T18:13:15.775+08:00","modified":"2025-12-15T18:16:49.377+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-15T18:13:15.775+08:00","modified":"2025-12-16T10:57:50.369+08:00","tags":["software_engineering","ai","claude_code"],"cssclasses":""}
 ---
-
 
 
 - github MCP 연동하면 PR 만들 수 있다는데 더 많은 정보를 담을 수 있고 배포 전에 사람이 한번 더 리뷰할 수 있어서 좋은 것 같다.
