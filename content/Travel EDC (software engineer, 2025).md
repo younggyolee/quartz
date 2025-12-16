@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T18:27:57.645+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T18:59:42.136+08:00","cssclasses":""}
 ---
 
-
-
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
+https://www.samsonite.com.au/c-lite/spinner-55-exp/ss-134679-1041.html
+
 I used to be a big fan of backpacking (without any wheeled luggage). But these few years backpacking feels too heavy for me for various reasons 
 
 - ==In Winter== I get to carry more ==clothes== and backpack gets ==heavy==
@@ -19,6 +19,7 @@ Got from Donquijote shop in Tokyo, at around JPY 40,000. (around USD 300)
 ![[attachments/Pasted image 20251216180155.png|390]]
 
 # Backpack = Osprey Ozone (0.7kg, 28L)
+https://amzn.to/4pHkjly
 
 I have a list of backpacks
 
@@ -45,7 +46,8 @@ and I carry Osprey Ozone these days for reasons below
 
 ![[attachments/Pasted image 20251216180345.png|485]]
 
-# Shoes = Nike Mens Air Zoom Pegasus Shield
+# Shoes = Nike Mens Air Zoom Pegasus Shield 39
+https://amzn.to/450oVuC
 
 ![[attachments/Pasted image 20251216182207.png|450]]
 
@@ -56,3 +58,21 @@ and I carry Osprey Ozone these days for reasons below
 
 ## Cons
 - It's not breatheable (that's how it's become waterproof) so get to feel a bit warm during the day, but still okay to wear around in South East Asian hot weather.
+
+
+# Windbreaker jacket = Patagonia Torrentshell 3L Rain Jacket
+https://www.patagonia.com/product/mens-torrentshell-3-layer-rain-jacket/85241.html?dwvar_85241_color=BLK
+
+This goes everywhere I go, literally. Regardless of weather, I always keep this in my bag.
+
+In a hot climate country like Singapore (30+ celsius during daytime), this saves me from fully air conditioned indoors (it's often very cold).
+
+In a cold climate like winter in Korea (0- celcius), when paired with a good down padding inside, it's quite endurable (not a perfect solution though)
+
+It's fairly waterproof, with huge breathability. (literally it has some zipped openings around armpit!)
+
+My best purchase ever.
+
+![[attachments/Pasted image 20251216184058.png]]
+
+![[attachments/Pasted image 20251216184115.png]]
