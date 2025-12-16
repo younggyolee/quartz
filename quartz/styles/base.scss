@@ -266,10 +266,25 @@ a {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      margin: 0;
+      padding: 1rem 2rem;
+      position: sticky;
+      top: 0;
+      background-color: var(--light);
+      z-index: 50;
+      border-bottom: 1px solid var(--lightgray);
+
+      & header {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
       @media all and ($mobile) {
-        margin-top: 0;
-        padding: 0;
+        padding: 0.75rem 1rem;
       }
     }
 
@@ -281,22 +296,24 @@ a {
       grid-area: grid-footer;
     }
 
-    & .center,
-    & footer {
-      max-width: 100%;
-      min-width: 100%;
+    & .center {
+      max-width: 800px;
       margin-left: auto;
       margin-right: auto;
-      @media all and ($tablet) {
-        margin-right: 0;
-      }
+      padding: 0 2rem;
       @media all and ($mobile) {
-        margin-right: 0;
-        margin-left: 0;
+        padding: 0 1rem;
       }
     }
+
     & footer {
-      margin-left: 0;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0 2rem;
+      @media all and ($mobile) {
+        padding: 0 1rem;
+      }
     }
   }
 }
