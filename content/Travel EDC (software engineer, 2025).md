@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T20:34:41.155+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T20:56:42.004+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -23,7 +23,7 @@ https://amzn.to/4pHkjly
 
 I have a list of backpacks
 
-- ==[Osprey Ozone (28L, 0.7kg)](https://amzn.to/4pHkjly)==
+- [Osprey Ozone (28L, 0.7kg)](https://amzn.to/4pHkjly)
 - [Osprey Tropos (34L)](https://amzn.to/4s0EzQB)
 - Osprey Apogee (28L, 0.82kg)
 - [Patagonia Black Hole (25L)](https://www.amazon.com/Patagonia-49298-Black-Hole-SMOLDER/dp/B0CHYYJKTD/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LjaPK_BvAFPS0K4bP6DkrZxaPVPigVwLRAzchzh51AobuHopD4NsEDAKzdWb-NGQJ2_Bj3SQSHO2jLQ5q7UvwldKLc2OEJrvTdIgchPvWqyXAWN0PXFgD7bmi564JpRH6TXKRj5zpB2FQ-jDpoQJMemUeKBHdQfG5p3KQ5IMWKx_W6_bj975aII0p510T6qeqOwq-hbawpnXAsnB3es6JSIZqSYfEGaroG8rJiWme1WANv352lcmeGP-ackKmuFFXEvr-HSvjWf4pq6p0oxs-l3rNEEjlTsNnu8zJiebQg0.DWMjs6buZqcKsijwbZOEXMX1pCGvTYiGnlBA2OGB-h4&dib_tag=se&keywords=patagonia%2Bblackhole5l&qid=1765888178&sr=8-1&th=1)
@@ -78,6 +78,6 @@ My best purchase ever.
 ![[attachments/Pasted image 20251216184115.png|330]]
 ![[attachments/Pasted image 20251216190419.png|330]]
 
-![[attachments/Pasted image 20251216190444.png|320]]
+![[attachments/Pasted image 20251216190444.png|330]]
 
-![[attachments/Pasted image 20251216190502.png|335]]
+![[attachments/Pasted image 20251216190502.png|330]]
