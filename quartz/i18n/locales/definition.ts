@@ -28,6 +28,10 @@ export interface Translation {
       title: string
       noBacklinksFound: string
     }
+    relatedPosts: {
+      title: string
+      noRelatedFound: string
+    }
     themeToggle: {
       lightMode: string
       darkMode: string

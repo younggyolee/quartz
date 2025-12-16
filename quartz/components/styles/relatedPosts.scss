@@ -1,0 +1,105 @@
+@use "../../styles/variables.scss" as *;
+
+.related-posts {
+  margin-top: 2rem;
+
+  & > h3 {
+    margin: 0.5rem 0 0 0;
+    font-size: 1rem;
+  }
+
+  & > ul.related-ul {
+    list-style: none;
+    margin-top: 1rem;
+    padding-left: 0;
+
+    & > li.related-li {
+      margin: 1rem 0;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--lightgray);
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      .related-content {
+        .title-row {
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          margin-bottom: 0.25rem;
+
+          & > a {
+            background-color: transparent;
+            font-weight: $semiBoldWeight;
+          }
+
+          .link-indicator {
+            font-size: 0.75rem;
+            padding: 0.1rem 0.4rem;
+            border-radius: 4px;
+            opacity: 0.8;
+
+            &.bidirectional {
+              background: var(--secondary);
+              color: var(--light);
+            }
+
+            &.outgoing {
+              background: var(--tertiary);
+              color: var(--light);
+            }
+
+            &.incoming {
+              background: var(--highlight);
+              color: var(--dark);
+            }
+          }
+        }
+
+        .description {
+          margin: 0.5rem 0;
+          color: var(--darkgray);
+          font-size: 0.9rem;
+          line-height: 1.5;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        ul.tags {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.4rem;
+          list-style: none;
+          padding: 0;
+          margin: 0.5rem 0 0 0;
+
+          li {
+            display: inline-block;
+
+            a.tag-link {
+              font-size: 0.75rem;
+              padding: 0.15rem 0.5rem;
+              background: var(--highlight);
+              border-radius: 4px;
+              text-decoration: none;
+
+              &:hover {
+                background: var(--tertiary);
+                color: var(--light);
+              }
+            }
+          }
+        }
+      }
+    }
+
+    & > li.no-related {
+      color: var(--darkgray);
+      font-style: italic;
+      font-size: 0.9rem;
+    }
+  }
+}

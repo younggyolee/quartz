@@ -37,6 +37,7 @@ export const sharedPageComponents: SharedLayout = {
         lang: "en",
       },
     }),
+    Component.RelatedPosts({ limit: 5 }),
     Component.RecentNotes({ limit: 10 }),
   ],
   footer: Component.Footer({
