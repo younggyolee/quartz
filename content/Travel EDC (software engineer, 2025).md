@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T19:05:13.354+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T20:34:41.155+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -23,16 +23,16 @@ https://amzn.to/4pHkjly
 
 I have a list of backpacks
 
-- ^^Osprey Ozone (28L, 0.7kg)^^
-- Osprey Tropos (34L)
+- ==[Osprey Ozone (28L, 0.7kg)](https://amzn.to/4pHkjly)==
+- [Osprey Tropos (34L)](https://amzn.to/4s0EzQB)
 - Osprey Apogee (28L, 0.82kg)
-- Patagonia Black Hole (25L)
-- Ortlieb hybrid bag (waterproof, for bike)
-- Brompton Borough (17L, waterproof, for brompton)
-- Bellroy Lite Ready Pack (18L, 0.35kg)
+- [Patagonia Black Hole (25L)](https://www.amazon.com/Patagonia-49298-Black-Hole-SMOLDER/dp/B0CHYYJKTD/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LjaPK_BvAFPS0K4bP6DkrZxaPVPigVwLRAzchzh51AobuHopD4NsEDAKzdWb-NGQJ2_Bj3SQSHO2jLQ5q7UvwldKLc2OEJrvTdIgchPvWqyXAWN0PXFgD7bmi564JpRH6TXKRj5zpB2FQ-jDpoQJMemUeKBHdQfG5p3KQ5IMWKx_W6_bj975aII0p510T6qeqOwq-hbawpnXAsnB3es6JSIZqSYfEGaroG8rJiWme1WANv352lcmeGP-ackKmuFFXEvr-HSvjWf4pq6p0oxs-l3rNEEjlTsNnu8zJiebQg0.DWMjs6buZqcKsijwbZOEXMX1pCGvTYiGnlBA2OGB-h4&dib_tag=se&keywords=patagonia%2Bblackhole5l&qid=1765888178&sr=8-1&th=1)
+- [Ortlieb Vario Pannier/Backpack (waterproof, for bike)](https://de.ortlieb.com/en/products/vario?variant=49067116298572)
+- [Brompton Borough (17L, waterproof, for brompton)](https://www.brompton.com/p/614/borough-waterproof-backpack-graphite?srsltid=AfmBOoqN246vnGOfVNO9R0dDC11uEO8MvcHim-iv4s4pdkyLVi6YjsCb)
+- [Bellroy Lite Ready Pack (18L, 0.35kg)](https://amzn.to/3MG2FQq)
 - Osprey Manta AG (36L)
-- Thule Subterra Hybrid Backpack (23L)
-- (to be) Thule aion 40L backpack (40L)
+- [Thule Subterra Hybrid Travel Backpack (15L => 23L (expandable))](https://amzn.to/4j2HJzp)
+- [(awaiting delivery) Thule aion 40L backpack (40L)](https://amzn.to/49dhbIe)
 
 and I carry Osprey Ozone these days for reasons below
 - It can have 16inch Macbook Pro in a separate compartment.
