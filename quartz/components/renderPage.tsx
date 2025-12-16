@@ -280,7 +280,7 @@ export function renderPage(
                 ))}
               </div>
               <Content {...componentData} />
-              <hr />
+              {slug !== "index" && <hr />}
               <div class="page-footer">
                 {afterBody.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
