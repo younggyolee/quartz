@@ -6,7 +6,9 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.RecentNotes({ limit: 10 }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -18,22 +20,22 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-    Component.ConditionalRender({
-      component: Component.RecentNotes({
-        title: "Latest Posts",
-        limit: 5,
-        linkToMore: "posts" as SimpleSlug,
-        filter: (f) => f.slug?.startsWith("posts/") && !f.slug?.endsWith("/index"),
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
+    // Component.ConditionalRender({
+    //   component: Component.Breadcrumbs(),
+    //   condition: (page) => page.fileData.slug !== "index",
+    // }),
+    // Component.ArticleTitle(),
+    // Component.ContentMeta(),
+    // Component.TagList(),
+    // Component.ConditionalRender({
+    //   component: Component.RecentNotes({
+    //     title: "Latest Posts",
+    //     limit: 5,
+    //     linkToMore: "posts" as SimpleSlug,
+    //     filter: (f) => f.slug?.startsWith("posts/") && !f.slug?.endsWith("/index"),
+    //   }),
+    //   condition: (page) => page.fileData.slug === "index",
+    // }),
   ],
   left: [
     Component.PageTitle(),
@@ -48,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "Posts" }),
   ],
   right: [
     Component.Graph(),
@@ -72,7 +74,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "Posts" }),
   ],
   right: [],
 }
