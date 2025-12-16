@@ -23,6 +23,20 @@ export const sharedPageComponents: SharedLayout = {
     }),
   ],
   afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "younggyolee/quartz",
+        repoId: "R_kgDOQhHgwg",
+        category: "Announcements",
+        categoryId: "DIC_kwDOQhHgws4Cz2TY",
+        mapping: "pathname",
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+        lang: "en",
+      },
+    }),
     Component.RecentNotes({ limit: 10 }),
   ],
   footer: Component.Footer({
