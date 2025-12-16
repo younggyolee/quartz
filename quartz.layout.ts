@@ -38,7 +38,7 @@ export const sharedPageComponents: SharedLayout = {
       },
     }),
     Component.RelatedPosts({ limit: 5 }),
-    Component.RecentNotes({ limit: 10 }),
+    Component.RecentNotes({ limit: 10, showTags: false }),
   ],
   footer: Component.Footer({
     links: {
