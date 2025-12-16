@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T18:59:42.136+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T19:05:13.354+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -73,6 +73,11 @@ It's fairly waterproof, with huge breathability. (literally it has some zipped o
 
 My best purchase ever.
 
-![[attachments/Pasted image 20251216184058.png]]
+![[attachments/Pasted image 20251216184058.png|585]]
 
-![[attachments/Pasted image 20251216184115.png]]
+![[attachments/Pasted image 20251216184115.png|330]]
+![[attachments/Pasted image 20251216190419.png|330]]
+
+![[attachments/Pasted image 20251216190444.png|320]]
+
+![[attachments/Pasted image 20251216190502.png|335]]
