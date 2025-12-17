@@ -46,10 +46,7 @@
     position: fixed;
     contain: layout;
     z-index: 999;
-    left: 0;
-    top: 0;
-    width: 100vw;
-    height: 100vh;
+    inset: 0;
     overflow-y: auto;
     display: none;
     backdrop-filter: blur(4px);
