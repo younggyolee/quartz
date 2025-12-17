@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T11:04:45.811+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T12:17:41.684+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -73,7 +73,7 @@ It's fairly waterproof, with huge breathability. (literally it has some zipped o
 
 My best purchase ever.
 
-![[Pasted image 20251216184058.png\|585]]
+![[attachments/Pasted image 20251216184058.png|585]]
 
 ![[attachments/Pasted image 20251216184115.png|330]]
 ![[attachments/Pasted image 20251216190419.png|330]]
@@ -93,6 +93,4 @@ Pros
 Cons
 - The hinge gets a bit loose after 6 months of intense use (still useable though)
 
-![[attachments/IMG_7855.jpeg]]
-
-![[attachments/IMG_2054.jpeg]]
+![[attachments/IMG_7855.jpeg|480]]
