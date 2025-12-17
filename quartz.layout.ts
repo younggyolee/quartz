@@ -37,8 +37,14 @@ export const sharedPageComponents: SharedLayout = {
         lang: "en",
       },
     }),
-    Component.RelatedPosts({ limit: 5 }),
-    Component.RecentNotes({ limit: 10, showTags: false }),
+    Component.ConditionalRender({
+      component: Component.RelatedPosts({ limit: 5 }),
+      condition: (props) => props.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ limit: 10, showTags: false }),
+      condition: (props) => props.fileData.slug !== "index",
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -58,6 +64,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (props) => props.fileData.slug !== "index",
+    }),
+    // Show RecentNotes as main content on index page
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ limit: 10, showTags: false }),
+      condition: (props) => props.fileData.slug === "index",
     }),
   ],
   left: [],

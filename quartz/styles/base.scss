@@ -45,7 +45,12 @@ ul,
   color: var(--darkgray);
   fill: var(--darkgray);
   overflow-wrap: break-word;
+  word-break: keep-all; // Prevents Korean/CJK words from breaking mid-word
   text-wrap: pretty;
+
+  @media all and ($mobile) {
+    text-wrap: auto; // Disable 'pretty' on mobile to reduce uneven spacing
+  }
 }
 
 .math {
