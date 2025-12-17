@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-16T20:56:42.004+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T11:04:45.811+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -73,7 +73,7 @@ It's fairly waterproof, with huge breathability. (literally it has some zipped o
 
 My best purchase ever.
 
-![[attachments/Pasted image 20251216184058.png|585]]
+![[Pasted image 20251216184058.png\|585]]
 
 ![[attachments/Pasted image 20251216184115.png|330]]
 ![[attachments/Pasted image 20251216190419.png|330]]
@@ -81,3 +81,18 @@ My best purchase ever.
 ![[attachments/Pasted image 20251216190444.png|330]]
 
 ![[attachments/Pasted image 20251216190502.png|330]]
+
+# Moft tripod magsafe wallet
+
+I tried many magsafe ring solutions, and this is the best I found. It can easily hold 2 cards. I put my wework coworking space card and a public transit card in it.
+
+Pros
+- It can work as a tripod / phone stand
+- It gives me better grip on the phone  (due to leather surface)
+
+Cons
+- The hinge gets a bit loose after 6 months of intense use (still useable though)
+
+![[attachments/IMG_7855.jpeg]]
+
+![[attachments/IMG_2054.jpeg]]
