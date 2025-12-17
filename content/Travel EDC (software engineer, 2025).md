@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T12:17:41.684+08:00","published":"2025-12-16","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T12:39:39.057+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -83,6 +83,7 @@ My best purchase ever.
 ![[attachments/Pasted image 20251216190502.png|330]]
 
 # Moft tripod magsafe wallet
+https://amzn.to/4rVGpCd
 
 I tried many magsafe ring solutions, and this is the best I found. It can easily hold 2 cards. I put my wework coworking space card and a public transit card in it.
 
