@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-07T12:35:02.706+08:00","modified":"2025-12-16T10:59:06.567+08:00","tags":["shopping","edc","software_engineering"],"cssclasses":""}
+{"publish":true,"created":"2025-12-07T12:35:02.706+08:00","modified":"2025-12-16T10:59:06.567+08:00","published":null,"tags":["shopping","edc","software_engineering"],"cssclasses":""}
 ---
 
 I love travelling and I am so enthusiastic about lightweight gears - yet satisfying most of the needs that I have for work. It's probably a dream that cannot be achieved, but this is always so fun for me to strive for the goal and exploring options.
