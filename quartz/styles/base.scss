@@ -17,6 +17,7 @@ body {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+  overflow-x: hidden;
 }
 
 .text-highlight {
@@ -44,7 +45,7 @@ ul,
 .typst-doc * {
   color: var(--darkgray);
   fill: var(--darkgray);
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere; // Force long strings (URLs) to break
   word-break: keep-all; // Prevents Korean/CJK words from breaking mid-word
   text-wrap: pretty;
 
@@ -316,8 +317,10 @@ a {
       margin-left: auto;
       margin-right: auto;
       padding: 0 2rem;
+      overflow-wrap: anywhere;
       @media all and ($mobile) {
         padding: 0 1rem;
+        max-width: 100%;
       }
     }
 
