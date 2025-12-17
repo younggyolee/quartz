@@ -14,9 +14,9 @@ I used to be a big fan of backpacking (without any wheeled luggage). But these f
 Then this suitcase is my choice, lightweight and very spacious when expanded.
 Got from Donquijote shop in Tokyo, at around JPY 40,000. (around USD 300)
 
-![[attachments/Pasted image 20251216180022.png|410]]
+![[attachments/Pasted image 20251216180022.jpeg|410]]
 
-![[attachments/Pasted image 20251216180155.png|390]]
+![[attachments/Pasted image 20251216180155.jpeg|390]]
 
 # Backpack = Osprey Ozone (0.7kg, 28L)
 https://amzn.to/4pHkjly
@@ -40,16 +40,16 @@ and I carry Osprey Ozone these days for reasons below
 - Quite comfortable straps
 - It can hang on to a suitcase handle with built-in pass-thru in the back
 
-![[attachments/Pasted image 20251216180326.png|495]]
+![[attachments/Pasted image 20251216180326.jpeg|495]]
 
-![[attachments/Pasted image 20251216175934.png|490]]
+![[attachments/Pasted image 20251216175934.jpeg|490]]
 
-![[attachments/Pasted image 20251216180345.png|485]]
+![[attachments/Pasted image 20251216180345.jpeg|485]]
 
 # Shoes = Nike Mens Air Zoom Pegasus Shield 39
 https://amzn.to/450oVuC
 
-![[attachments/Pasted image 20251216182207.png|450]]
+![[attachments/Pasted image 20251216182207.jpeg|450]]
 
 ## Pros
 - It's ==waterproof== (I realised it's very important when travelling - otherwise after a rainy day you get a wet shoes which doesn't get dry for days to come and stinks badly)
@@ -73,14 +73,14 @@ It's fairly waterproof, with huge breathability. (literally it has some zipped o
 
 My best purchase ever.
 
-![[attachments/Pasted image 20251216184058.png|585]]
+![[attachments/Pasted image 20251216184058.jpeg|585]]
 
-![[attachments/Pasted image 20251216184115.png|330]]
-![[attachments/Pasted image 20251216190419.png|330]]
+![[attachments/Pasted image 20251216184115.jpeg|330]]
+![[attachments/Pasted image 20251216190419.jpeg|330]]
 
-![[attachments/Pasted image 20251216190444.png|330]]
+![[attachments/Pasted image 20251216190444.jpeg|330]]
 
-![[attachments/Pasted image 20251216190502.png|330]]
+![[attachments/Pasted image 20251216190502.jpeg|330]]
 
 # Moft tripod magsafe wallet
 https://amzn.to/4rVGpCd
