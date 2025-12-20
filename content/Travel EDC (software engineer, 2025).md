@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-17T12:39:39.057+08:00","cssclasses":""}
+{"publish":true,"created":"2025-12-16T17:55:44.562+08:00","modified":"2025-12-19T14:18:52.455+08:00","cssclasses":""}
 ---
 
 # Suitcase = Samsonite C-LITE (2.1kg, 42L)
@@ -14,9 +14,9 @@ I used to be a big fan of backpacking (without any wheeled luggage). But these f
 Then this suitcase is my choice, lightweight and very spacious when expanded.
 Got from Donquijote shop in Tokyo, at around JPY 40,000. (around USD 300)
 
-![[attachments/Pasted image 20251216180022.jpeg|410]]
+![[attachments/Pasted image 20251216180022.png|410]]
 
-![[attachments/Pasted image 20251216180155.jpeg|390]]
+![[attachments/Pasted image 20251216180155.png|390]]
 
 # Backpack = Osprey Ozone (0.7kg, 28L)
 https://amzn.to/4pHkjly
@@ -40,16 +40,16 @@ and I carry Osprey Ozone these days for reasons below
 - Quite comfortable straps
 - It can hang on to a suitcase handle with built-in pass-thru in the back
 
-![[attachments/Pasted image 20251216180326.jpeg|495]]
+![[attachments/Pasted image 20251216180326.png|495]]
 
-![[attachments/Pasted image 20251216175934.jpeg|490]]
+![[attachments/Pasted image 20251216175934.png|490]]
 
-![[attachments/Pasted image 20251216180345.jpeg|485]]
+![[attachments/Pasted image 20251216180345.png|485]]
 
 # Shoes = Nike Mens Air Zoom Pegasus Shield 39
 https://amzn.to/450oVuC
 
-![[attachments/Pasted image 20251216182207.jpeg|450]]
+![[attachments/Pasted image 20251216182207.png|450]]
 
 ## Pros
 - It's ==waterproof== (I realised it's very important when travelling - otherwise after a rainy day you get a wet shoes which doesn't get dry for days to come and stinks badly)
@@ -73,14 +73,14 @@ It's fairly waterproof, with huge breathability. (literally it has some zipped o
 
 My best purchase ever.
 
-![[attachments/Pasted image 20251216184058.jpeg|585]]
+![[Pasted image 20251216184058.png\|585]]
 
-![[attachments/Pasted image 20251216184115.jpeg|330]]
-![[attachments/Pasted image 20251216190419.jpeg|330]]
+![[attachments/Pasted image 20251216184115.png|330]]
+![[attachments/Pasted image 20251216190419.png|330]]
 
-![[attachments/Pasted image 20251216190444.jpeg|330]]
+![[attachments/Pasted image 20251216190444.png|330]]
 
-![[attachments/Pasted image 20251216190502.jpeg|330]]
+![[attachments/Pasted image 20251216190502.png|330]]
 
 # Moft tripod magsafe wallet
 https://amzn.to/4rVGpCd
@@ -95,3 +95,46 @@ Cons
 - The hinge gets a bit loose after 6 months of intense use (still useable though)
 
 ![[attachments/IMG_7855.jpeg|480]]
+
+
+# Cable
+
+## Caldigit Thunderbolt 3 Cable (0.7m)
+https://amzn.to/4p2cDsY
+
+![[attachments/Pasted image 20251219140606.png|350]]
+
+It can do 99% of the things what cables do - It can do 100w charging, super fast data transfer (of course it's Thunderbolt 3!), output display to an external portable monitor, and everything.
+
+I say this because most cables are not as capable like this. 
+- OTC Thunderbolt 4 cable - had compatibility issue with many devices, can't do portable external display, ...
+- Anker 1.8m charging cable - of course it doesn't do any data transfer...
+
+And this cable survived 5 years of heavy usage.
+
+This came with Caldigit Thunderbolt3 Dock.
+
+## Hagibis USB4 C to C short cable
+https://amzn.to/48LCbFN
+
+![[attachments/Pasted image 20251219140802.png|305]]
+This has almost the same functionality as the Caldigit TB3 cable above. (This just cannot do TB3, I believe, like when connecting Macbook Pro M1 to TB3 dock.)
+
+
+# Laptop
+## Macbook Pro 16inch M1 Pro (32GB RAM, 2TB SSD)
+https://amzn.to/49iRHJo (link to M4 Macbook Pro 16inch with 46GB ram that I was using for my corporate work - since M1 is discontinued now. For most of frontend/backend development, Pro chip is just perfect. Get more RAM though, that difference is felt.)
+
+![[attachments/Pasted image 20251219141237.png]]
+
+I got this back in November 2021 when it first came out. It was something like KRW 4.3M I believe. I don't think I needed to go 2TB SSD. But 32GB RAM was a good choice (I compared 8GB Macbook Air and 16GB Macbook Air M1, and their performance difference was huge, when I was just running some Pycharm and vscode, etc for web development).
+
+It's still going strong in December 2025. Honestly I don't feel much difference between this machine and 16 inch M4 Macbook Pro (with RAM 46GB, my company laptop).
+
+I also use M1 Macbook Pro 14 inch as my backup (16GB RAM and 512GB SSD) and it still works perfectly, though it is just a tiny bit slower than this 16inch. I believe it comes from the memory difference (32GB vs 16GB)
+
+I don't think I will buy a new laptop for the next 2-3 years, unless a new macbook comes with a new OLED display.
+
+I also want to try out a new Nano Textured display, but it is not enough to justify throwing away my main M1 Macbook Pro 16.
+
+But I have to agree that for travel, it's damn heavy and I prefer to bring Macbook Pro 14. I code less and less after Claude Code came out and most of the time I just review a bit by bit, and the smaller screen feels more okay than before when I was manually coding and had to look at different code bases / references at the same time.
