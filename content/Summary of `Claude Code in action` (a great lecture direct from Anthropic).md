@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-15T18:13:15.775+08:00","modified":"2025-12-16T10:57:50.369+08:00","published":"2025-12-15","tags":["software_engineering","ai","claude_code"],"cssclasses":""}
+{"publish":true,"created":"2025-12-15T18:13:15.775+08:00","modified":"2025-12-16T10:57:50.369+08:00","tags":["software_engineering","ai","claude_code"],"cssclasses":""}
 ---
 
 
